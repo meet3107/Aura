@@ -1,7 +1,7 @@
 [
     
       {
-        "id" : 1,
+        "id" : "1",
         "name": "SMALL DG LOGO BAG CROSSBODY BAG",
         "price": "$100/day",
         "size": ["N/A"],
@@ -9,7 +9,7 @@
         "brand": "AURA"
       },
       {
-        "id" : 2,
+        "id" : "2",
         "name": "DOUBLE-BREASTED WOOLEN JACKET WITH SIDE VENTS",
         "price": "$150/day",
         "size": ["S", "M", "L", "XL"],
@@ -17,7 +17,7 @@
         "brand": "AURA"
       },
       {
-        "id" : 3,
+        "id" : "3",
         "name": "DEVOTION NECKLACE IN YELLOW GOLD WITH DIAMONDS AND PEARLS",
         "price": "$300/day",
         "size": ["N/A"],
@@ -25,7 +25,7 @@
         "brand": "AURA"
       },
       {
-        "id" : 4,
+        "id" : "4",
         "name": "SINGLE-BREASTED STRETCH WOOL SICILIA-FIT JACKET",
         "price": "$250/day",
         "size": ["S", "M", "L"],
@@ -33,7 +33,7 @@
         "brand": "AURA"
       },
       {
-        "id" : 5,
+        "id" : "5",
         "name": "CROPPED HOODIE WITH DOLCE&GABBANA LOGO",
         "price": "$175/day",
         "size": ["S", "M", "L"],
@@ -41,7 +41,7 @@
         "brand": "AURA"
       },
       {
-        "id" : 6,
+        "id" : "6",
         "name": "DOLCE&GABBANA X PERSOL SUNGLASSES",
         "price": "$165/day",
         "size": ["N/A"],

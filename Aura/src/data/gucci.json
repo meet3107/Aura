@@ -1,6 +1,6 @@
  [
     {
-      "id" : 1,
+      "id" : "1",
       "name": "Gucci Soho Small Leather Disco Bag",
       "price": "$20/day",
       "size": ["NA"],
@@ -8,7 +8,7 @@
       "brand": "Gucci"
     },
     {
-      "id" : 2,
+      "id" : "2",
       "name": "Logo-Appliquéd Striped Quilted Shell Down Jacket",
       "price": "$500/day",
       "size": ["S", "M", "L"],
@@ -16,7 +16,7 @@
       "brand": "Gucci"
     },
     {
-      "id" : 3,
+      "id" : "3",
       "name": "Logo-Print Cotton-Jersey Hoodie",
       "price": "$150/day",
       "size": ["S", "M", "L"],
@@ -24,7 +24,7 @@
       "brand": "Gucci"
     },
     {
-      "id" : 4,
+      "id" : "4",
       "name": "Khaki Interlocking G Cropped Zip-Up",
       "price": "$300/day",
       "size": ["S", "M", "L"],
@@ -32,7 +32,7 @@
       "brand": "Gucci"
     },
     {
-      "id" : 5,
+      "id" : "5",
       "name": "Webbing-Trimmed Monogrammed Jersey Sweatpants",
       "price": "$180",
       "size": ["S", "M", "L"],
@@ -40,7 +40,7 @@
       "brand": "Gucci"
     },
     {
-      "id" : 6,
+      "id" : "6",
       "name": "Gucci GG Marmont Matelasse Super Mini Bag",
       "price": "$70",
       "size": ["NA"],

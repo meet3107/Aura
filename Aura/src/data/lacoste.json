@@ -1,6 +1,6 @@
 [
     {
-      "id" : 1,
+      "id" : "1",
       "name": "LACOSTE Men'S Pastille Cropped Hooded Jacket Gree",
       "price": "$100/day",
       "size": ["S", "M", "L"],
@@ -8,7 +8,7 @@
       "brand": "Lacoste"
     },
     {
-      "id" : 2,
+      "id" : "2",
       "name": "Lacoste White Neocroc Bag",
       "price": "$50/day",
       "size": ["S"],
@@ -16,7 +16,7 @@
       "brand": "Lacoste"
     },
     {
-      "id" : 3,
+      "id" : "3",
       "name": "LACOSTE Off-White Half-Zip Sweatshirt",
       "price": "$110/day",
       "size": ["M", "L"],
@@ -24,7 +24,7 @@
       "brand": "Lacoste"
     },
     {
-      "id" : 4,
+      "id" : "4",
       "name": "Lacoste Men's Live Logo Graphic Sweatshirt",
       "price": "$150/day",
       "size": ["S", "M", "L"],
@@ -32,7 +32,7 @@
       "brand": "Lacoste"
     },
     {
-      "id" : 5,
+      "id" : "5",
       "name": "Lacoste Unisex Monogram Cardigan, Viennese/Expresso, Men's,Sweaters Button-Front & Open Cardigan Sweaters",
       "price": "$180",
       "size": ["S", "M", "L"],
@@ -40,7 +40,7 @@
       "brand": "Lacoste"
     },
     {
-      "id" : 6,
+      "id" : "6",
       "name": "Lacoste Multicolor Embroidered Shirt",
       "price": "$120",
       "size": ["S", "M", "L"],
