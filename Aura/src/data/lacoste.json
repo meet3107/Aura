@@ -1,0 +1,51 @@
+[
+    {
+      "id" : 1,
+      "name": "LACOSTE Men'S Pastille Cropped Hooded Jacket Gree",
+      "price": "$100/day",
+      "size": ["S", "M", "L"],
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcREyA1vA0Z04u7FvdQcwq4xBwhb6wo-jV-vGPZnxsLulXLstV7kkn-i95i1DpIPNEyqwiwUq3ecVw2i-U_gAP1ZQLCiJOXbvXoHJt1Y6ks9LlrWWuZ-DIuQ&usqp=CAY",
+      "brand": "Lacoste"
+    },
+    {
+      "id" : 2,
+      "name": "Lacoste White Neocroc Bag",
+      "price": "$50/day",
+      "size": ["S"],
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTrW4dm9Y5VMRetv-NVZOC_BIOB_1q7ZkBSu79rhgEB1o-6HsxN_DDgj0Tcz_26m4sV7bBS6XVIo8_MLKFUSuZHlhaW6cO87BBr2xuHtMhtO0p1VDNa5uvtXA&usqp=CAY",
+      "brand": "Lacoste"
+    },
+    {
+      "id" : 3,
+      "name": "LACOSTE Off-White Half-Zip Sweatshirt",
+      "price": "$110/day",
+      "size": ["M", "L"],
+      "image": "https://img.ssensemedia.com/images/b_white,g_center,f_auto,q_auto:best/232268M202002_1/lacoste-off-white-half-zip-sweatshirt.jpg",
+      "brand": "Lacoste"
+    },
+    {
+      "id" : 4,
+      "name": "Lacoste Men's Live Logo Graphic Sweatshirt",
+      "price": "$150/day",
+      "size": ["S", "M", "L"],
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS1ICocrHJCmj74zk5vJiP-Af09VFXyoADL3Bx7W5Eal-IItfw9e4_92RPwJzvQPsjF3Ro-bug2btC0SUkr1EpLx_40LF0MWO7xpinS7f4&usqp=CAY",
+      "brand": "Lacoste"
+    },
+    {
+      "id" : 5,
+      "name": "Lacoste Unisex Monogram Cardigan, Viennese/Expresso, Men's,Sweaters Button-Front & Open Cardigan Sweaters",
+      "price": "$180",
+      "size": ["S", "M", "L"],
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRH63zpI_F0ZHhV5zaCoohYMekoqTQP5572sbpRj_n-fJZ-ig8D2PQkqH3HBllTdeZhzaIUpTYzNNLyo7aonM0683WiYJDVf9lGKfAd00i8efosqNEpZTPq&usqp=CAY",
+      "brand": "Lacoste"
+    },
+    {
+      "id" : 6,
+      "name": "Lacoste Multicolor Embroidered Shirt",
+      "price": "$120",
+      "size": ["S", "M", "L"],
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTiuUFlZHXo0_vPlB83HRshV4XaeQbJP0vaG_NUg6Cq8_R6UW7aVQJmC5zvjqDNlBMj0fUhdqOjg7ACBmWeIkFae_b8fyKf&usqp=CAE",
+      "brand": "Lacoste"
+    }
+  ]
+

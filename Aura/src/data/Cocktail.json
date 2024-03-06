@@ -1,0 +1,51 @@
+ [
+      {
+        "id" : 1,
+        "name": "Beyond Classy White Satin Halter Midi Dress",
+        "price": "$120/day",
+        "size": ["XS", "S", "M", "L", "XL"],
+        "image": "https://www.lulus.com/images/product/xlarge/8287161_1664996.jpg?w=560&hdpi=1",
+        "brand": "AURA"
+      },
+      {
+        "id" : 2,
+        "name": "Reinette Black Midi Dress",
+        "price": "$110/day",
+        "size": ["S", "M", "L", "XL"],
+        "image": "https://www.lulus.com/images/product/xlarge/10391701_1409376.jpg?w=560&hdpi=1",
+        "brand": "AURA"
+      },
+      {
+        "id" : 3,
+        "name": "Perfect Pick Black Bodycon Dress",
+        "price": "$90/day",
+        "size": ["S", "M", "L"],
+        "image": "https://www.lulus.com/images/product/xlarge/4458990_361912.jpg?w=560&hdpi=1",
+        "brand": "AURA"
+      },
+      {
+        "id" : 4,
+        "name": "Shape the Night Dark Teal Blue Asymmetrical Midi Dress",
+        "price": "$75/day",
+        "size": ["S", "M", "L"],
+        "image": "https://www.lulus.com/images/product/xlarge/7817881_1588836.jpg?w=560&hdpi=1",
+        "brand": "AURA"
+      },
+      {
+        "id" : 5,
+        "name": "Springtime Soiree White Sequin 3D Floral Applique Midi Dress",
+        "price": "$150/day",
+        "size": ["S", "M", "L"],
+        "image": "https://www.lulus.com/images/product/xlarge/10352321_2075956.jpg?w=560&hdpi=1",
+        "brand": "AURA"
+      },
+      {
+        "id" : 6,
+        "name": "Katrina Royal Blue Strappy Backless Skater Dress",
+        "price": "$130/day",
+        "size": ["S", "M", "L", "XL"],
+        "image": "https://www.lulus.com/images/product/xlarge/4228390_764802.jpg?w=560&hdpi=1",
+        "brand": "AURA"
+      }
+    ]
+  

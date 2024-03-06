@@ -1,0 +1,53 @@
+[
+    
+      {
+        "id" : 1,
+        "name": "Blue Silk Jacket",
+        "price": "$105/day",
+        "size": ["XS", "S", "M", "L", "XL"],
+        "image": "https://firebasestorage.googleapis.com/v0/b/beyondtherunway-fc203.appspot.com/o/images%2F1690328752614-VL13045%20BLUE-2.jpg?alt=media&token=df02d623-5b77-4ce6-b764-0ba680163d1f",
+        "brand": "AURA"
+      },
+      {
+        "id" : 2,
+        "name": "Button Down Shirt With Pocket",
+        "price": "$150/day",
+        "size": ["S", "M", "L", "XL"],
+        "image": "https://firebasestorage.googleapis.com/v0/b/beyondtherunway-fc203.appspot.com/o/images%2F1668603197971-VL12414BLUE-2_1024x1024%402x.jpg?alt=media&token=903462e5-d446-4512-b0f5-40e0d22f34db",
+        "brand": "AURA"
+      },
+      {
+        "id" : 3,
+        "name": "Neck Bowknot Contrast Sheath Dress Without Belt",
+        "price": "$90/day",
+        "size": ["S", "M", "L"],
+        "image": "https://firebasestorage.googleapis.com/v0/b/beyondtherunway-fc203.appspot.com/o/images%2F1660151627323-VLS0515%20PURPLE%20BACK.jpg?alt=media&token=64b55118-6fd5-470f-9d66-27cbfb74eba9",
+        "brand": "AURA"
+      },
+      {
+        "id" : 4,
+        "name": "Button Down Sweater",
+        "price": "$130/day",
+        "size": ["S", "M", "L"],
+        "image": "https://firebasestorage.googleapis.com/v0/b/beyondtherunway-fc203.appspot.com/o/images%2F1660145585422-VL12413%20PURPLE%20BACK.jpg?alt=media&token=910aff6a-f68e-4373-96e0-fc6196de2e2e",
+        "brand": "AURA"
+      },
+      {
+        "id" : 5,
+        "name": "Long Style Black Dress",
+        "price": "$150/day",
+        "size": ["S", "M", "L"],
+        "image": "https://firebasestorage.googleapis.com/v0/b/beyondtherunway-fc203.appspot.com/o/images%2F1690296654250-VL13034%20BLACK-2.jpg?alt=media&token=8ee7900a-af79-4436-a9fb-c87345878c98",
+        "brand": "AURA"
+      },
+      {
+        "id" : 6,
+        "name": "V-neck Silk Blouse",
+        "price": "$130/day",
+        "size": ["S", "M", "L", "XL"],
+        "image": "https://firebasestorage.googleapis.com/v0/b/beyondtherunway-fc203.appspot.com/o/images%2F1656366698050-VL12340%20BLACK-2.jpg?alt=media&token=0fa92963-3d4b-4016-a624-ef39bfed4d9f",
+        "brand": "AURA"
+      }
+    
+    ]
+  
